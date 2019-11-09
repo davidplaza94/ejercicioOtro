@@ -1,3 +1,3 @@
 # ejercicio1
 David Plaza Serrano
-Versión 1.0
+Versión 2.0
