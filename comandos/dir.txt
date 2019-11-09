@@ -1,0 +1,1 @@
+ El comando dir es un comando de símbolo del sistema utilizado para mostrar una lista de los archivos y subcarpetas contenidos en una carpeta.
