@@ -1,4 +1,0 @@
-MD (Make Directory) sirve para crear un nuevo directorio.
-lINEA 2
-lINEA 3
-Merge con conflictos
